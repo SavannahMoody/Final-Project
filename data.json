@@ -1,0 +1,205 @@
+{
+    "count": 20,
+    "movies": [
+        {
+            "id": 975056,
+            "overview": "Italian immigrant Francesca Cabrini arrives in 1889 New York City and is greeted by disease, crime, and impoverished children. Cabrini sets off on a daring mission to convince the hostile mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world had ever seen.",
+            "popularity": 76.895,
+            "poster_path": "/rBiHiN8W4BqMFrDozemzkof7GmF.jpg",
+            "release_date": "2024-03-07",
+            "title": "Cabrini",
+            "vote_average": 7.429,
+            "vote_count": 21
+        },
+        {
+            "id": 858017,
+            "overview": "Teenager Owen is just trying to make it through life in the suburbs when his classmate introduces him to a mysterious late-night TV show — a vision of a supernatural world beneath their own. In the pale glow of the television, Owen’s view of reality begins to crack.",
+            "popularity": 67.474,
+            "poster_path": "/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg",
+            "release_date": "2024-05-03",
+            "title": "I Saw the TV Glow",
+            "vote_average": 0.0,
+            "vote_count": 0
+        },
+        {
+            "id": 923667,
+            "overview": "Set in the 1980s, \"Twilight of the Warriors: Walled In\" follows troubled youth Chan Lok-kwun as he accidentally enters the Walled City, discovers the order amidst its chaos, and learns important life lessons along the way. In the Walled City, he becomes close friends with Shin, Twelfth Master and AV. Under the leadership of Tornado, they resist against the invasion of villain Mr. Big in a series of fierce battles. Together, they vow to protect the safe haven that is Kowloon Walled City.",
+            "popularity": 57.475,
+            "poster_path": "/y8dEvxURJOJVGzJ8ysHVEg1nNDn.jpg",
+            "release_date": "2024-04-23",
+            "title": "Twilight of the Warriors: Walled In",
+            "vote_average": 7.3,
+            "vote_count": 7
+        },
+        {
+            "id": 986070,
+            "overview": "Two years after she escaped a violent attack on her family, 16-year-old Becky attempts to rebuild her life in the care of an older woman -- a kindred spirit named Elena. However, when a violent group known as the Noble Men break into their home, attack them and take their beloved dog, Becky must return to her old ways to protect herself and her loved ones.",
+            "popularity": 53.734,
+            "poster_path": "/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
+            "release_date": "2023-05-26",
+            "title": "The Wrath of Becky",
+            "vote_average": 6.369,
+            "vote_count": 252
+        },
+        {
+            "id": 588648,
+            "overview": "Set in Han Imperial China, the plot follows the adventures of enslaved girl Ping with ancient dragon Long Danzi. Dragons had been banished from the kingdom. Ping, an orphan, finds one of the last remaining dragon eggs. Palace guards force Ping to run away in order to return the dragon egg to the ocean and save all dragons from extinction. Ping discovers that she is a true Dragonkeeper.",
+            "popularity": 52.014,
+            "poster_path": "/mNZON2KGr5DDzORlmyxrqz5KMcx.jpg",
+            "release_date": "2024-04-11",
+            "title": "Dragonkeeper",
+            "vote_average": 5.8,
+            "vote_count": 2
+        },
+        {
+            "id": 1032425,
+            "overview": "In the 1860s, fiercely independent French-Canadian Vivienne Le Coudy embarks on a journey with Danish immigrant Holger Olsen, attempting to forge a life together in the dusty town of Elk Flats, Nevada. When Holger decides to go fight for the Union in the burgeoning Civil War, Vivienne must fend for herself, which isn't easy in a town controlled by a corrupt mayor.",
+            "popularity": 45.024,
+            "poster_path": "/br67EKUD34UL3mihsHqJhDzJaIt.jpg",
+            "release_date": "2024-05-01",
+            "title": "The Dead Don't Hurt",
+            "vote_average": 5.9,
+            "vote_count": 5
+        },
+        {
+            "id": 758679,
+            "overview": "Housewives Alice and Celine are best friends and neighbors who seem to have it all. However, when a tragic accident shatters the harmony of their lives, guilt, suspicion and paranoia begin to unravel their sisterly bond.",
+            "popularity": 44.908,
+            "poster_path": "/xscMEP5VsvCLxFvrDQD84biWsLA.jpg",
+            "release_date": "2024-01-11",
+            "title": "Mothers' Instinct",
+            "vote_average": 6.9,
+            "vote_count": 13
+        },
+        {
+            "id": 980026,
+            "overview": "Denmark, 1755. Captain Ludvig Kahlen sets out to conquer a Danish heath reputed to be uncultivable, with an impossible goal: to establish a colony in the name of the king, in exchange for a royal title. A single-minded ambition that the ruthless lord of the region will relentlessly seek to put down. Kahlen's fate hangs in the balance: will his endevours bring him wealth and honour, or cost him his life...?",
+            "popularity": 44.688,
+            "poster_path": "/npQgoOWn4fnvOIIyTj4rIV80FXC.jpg",
+            "release_date": "2023-10-05",
+            "title": "The Promised Land",
+            "vote_average": 7.706,
+            "vote_count": 136
+        },
+        {
+            "id": 586810,
+            "overview": "In 2200, private detective Aline Ruby and her android partner Carlos Rivera are hired by a wealthy businessman to track down a notorious hacker. On Mars, they descend deep into the underbelly of the planet's capital city where they uncover a darker story of brain farms, corruption, and a missing girl who holds a secret about the robots that threatens to change the face of the universe.",
+            "popularity": 44.583,
+            "poster_path": "/bagX09lbBjqnTMqggSXAQOpt22B.jpg",
+            "release_date": "2023-11-22",
+            "title": "Mars Express",
+            "vote_average": 7.7,
+            "vote_count": 120
+        },
+        {
+            "id": 557946,
+            "overview": "A disgraced ex-cop seeks solace by moving to the woods, but his quiet life comes to an end when a private eye recruits him to investigate the murder of an eccentric TV star's wife.",
+            "popularity": 41.006,
+            "poster_path": "/eWuvTRuoKrrGVWTtq3QHx13fIDP.jpg",
+            "release_date": "2022-01-27",
+            "title": "Last Looks",
+            "vote_average": 5.9,
+            "vote_count": 278
+        },
+        {
+            "id": 812037,
+            "overview": "One summer, a French teenager who has been living with his mother in the city moves in with his estranged father’s family in the countryside, where he clashes with his stepmother.",
+            "popularity": 40.932,
+            "poster_path": "/a94IHwd6t2oXKy5KWTvaEnAs6Ux.jpg",
+            "release_date": "2023-09-13",
+            "title": "Last Summer",
+            "vote_average": 6.0,
+            "vote_count": 95
+        },
+        {
+            "id": 9905,
+            "overview": "When David, Juliet, and Alex are searching for a fourth roommate for their flat, they settle on the aloof Hugo. However, they soon find Hugo dead, with a large sum of cash being among his belongings. The three friends decide to keep the money, dismembering and burying Hugo's body. However, their newfound fortune begins to corrode their friendships, with each roommate resorting to manipulation tactics to scam the others out of the money.",
+            "popularity": 38.404,
+            "poster_path": "/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg",
+            "release_date": "1994-12-22",
+            "title": "Shallow Grave",
+            "vote_average": 6.996,
+            "vote_count": 940
+        },
+        {
+            "id": 979097,
+            "overview": "Sylvia is a social worker who leads a simple and structured life: her daughter, her job, her AA meetings. This is blown open when Saul follows her home from their high school reunion. Their surprise encounter will profoundly impact both of them as they open the door to the past.",
+            "popularity": 38.092,
+            "poster_path": "/cZgTA5ZOKOIRGyYClJMu02VUNcE.jpg",
+            "release_date": "2023-12-22",
+            "title": "Memory",
+            "vote_average": 7.1,
+            "vote_count": 48
+        },
+        {
+            "id": 1214523,
+            "overview": "An intimately raw and magical journey through the life, mind, and heart of iconic artist Frida Kahlo. Told through her own words for the very first time — drawn from her diary, revealing letters, essays, and print interviews — and brought vividly to life by lyrical animation inspired by her unforgettable artwork.",
+            "popularity": 35.91,
+            "poster_path": "/qfPjPZF2AqB2XnXPFcHlYtlQRS3.jpg",
+            "release_date": "2024-03-08",
+            "title": "Frida",
+            "vote_average": 7.906,
+            "vote_count": 16
+        },
+        {
+            "id": 1126459,
+            "overview": "Raia is a famous writer who suffers from writer's block. In order to get inspired again, he then went to New York. It was in that city that Raia met River and then got involved in a love story that was overshadowed by the past.",
+            "popularity": 35.049,
+            "poster_path": "/4tT9N7IeZtvWYsbGJsbIOGQ36b5.jpg",
+            "release_date": "2024-04-30",
+            "title": "The Architecture of Love",
+            "vote_average": 7.75,
+            "vote_count": 2
+        },
+        {
+            "id": 1056803,
+            "overview": "After a draining December, Sakuta is quickly nearing the end of his second year of high school. Since Mai is a third-year student, they don't have much time left together before graduation rolls around. Meanwhile, his sister, Kaede, is slowly but steadily venturing outdoors again. Just as she begins to find her footing, she announces her most ambitious goal yet—attending her brother's high school! Sakuta knows better than anyone how difficult this will be for Kaede, and he's ready to support her however he can. He's just not sure if that's what's best for her...or what she really wants...",
+            "popularity": 34.437,
+            "poster_path": "/o3Yc0plKnzpck0SM3rQLjWBHel8.jpg",
+            "release_date": "2023-06-23",
+            "title": "Rascal Does Not Dream of a Sister Venturing Out",
+            "vote_average": 8.156,
+            "vote_count": 16
+        },
+        {
+            "id": 1026227,
+            "overview": "In post-war Italy, the family of typical housewife Delia is in turmoil over the impending engagement of beloved firstborn Marcella. The arrival of a mysterious letter, however, will ignite Delia's courage to face her abusive husband and imagine a better future.",
+            "popularity": 32.295,
+            "poster_path": "/4Hi7yjiQjokEDStT1MOj5rPgRfW.jpg",
+            "release_date": "2023-10-26",
+            "title": "There's Still Tomorrow",
+            "vote_average": 8.181,
+            "vote_count": 989
+        },
+        {
+            "id": 824016,
+            "overview": "A comedy set on New Year’s Eve 1999 in a luxurious hotel in the Swiss Alps where the lives of various guests and those who work for them intersect.",
+            "popularity": 32.232,
+            "poster_path": "/anfnDmeUuiYJgZ3h57Se0UShaSr.jpg",
+            "release_date": "2023-09-28",
+            "title": "The Palace",
+            "vote_average": 5.457,
+            "vote_count": 116
+        },
+        {
+            "id": 723347,
+            "overview": "A womanizer and a gold digger trick people into relationships with illegal robot doubles. When they unwittingly use this scam on each other, their robot doubles fall in love and elope, forcing the duo to team up to hunt them down before the authorities discover their secret.",
+            "popularity": 32.181,
+            "poster_path": "/yf7aXA3qC3MA5fqnBmnFsrdZDDN.jpg",
+            "release_date": "2023-04-26",
+            "title": "Robots",
+            "vote_average": 5.6,
+            "vote_count": 177
+        },
+        {
+            "id": 1266985,
+            "overview": "Every week, warehouse security guard Estelle, turns a blind eye to the illegal gambling at the warehouse in exchange for financial and sexual favors. But when a younger and more beautiful new recruit, Meryl, arrives, will Estelle be able to keep her place as the lady guard?",
+            "popularity": 29.488,
+            "poster_path": "/8Jb0CXPL3AZWy0yqVeqaMn7Xuos.jpg",
+            "release_date": "2024-05-14",
+            "title": "Lady Guard",
+            "vote_average": 0.0,
+            "vote_count": 0
+        }
+    ]
+}
